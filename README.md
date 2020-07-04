@@ -7,7 +7,7 @@ IP-Geolocation Fetcher.
 ## Usage
 
 - Send URL To User.
-- Visitor's {IP, ISP, Hostname, Country, Region, Location Coordinates, Postal Code, Timezone, Browser User Agent } will be inserted into database.
+- Visitor's {IP, ISP, Hostname, Country, Region, Location Coordinates, Postal Code, Timezone, Browser User Agent} <br/> will be inserted into database.
 
 ## Dev Note
 
