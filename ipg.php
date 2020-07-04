@@ -40,5 +40,5 @@ fwrite($myfile, $host." ");
 fwrite($myfile, $uag." ");
 fclose($myfile);
  */
-
+ 
 ?>
