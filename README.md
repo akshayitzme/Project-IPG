@@ -15,5 +15,5 @@ IP-Geolocation Fetcher.
 
 ## Thanks
 
-- Used [IPInfo](http://ipinfo.io/) API.
+- [IPInfo](http://ipinfo.io/) API.
 
